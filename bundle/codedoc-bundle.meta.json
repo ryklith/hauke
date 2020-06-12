@@ -1,0 +1,111 @@
+{
+  "init": [
+    {
+      "name": "initJssCs",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "9hYM8bv25tp8Z3auNpAVXg=="
+    },
+    {
+      "name": "installTheme",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/content/theme.ts",
+      "hash": "6POGfUXh8I+n9WnIbBVKTg=="
+    },
+    {
+      "name": "countCards",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/count-cards.js",
+      "hash": "po+YGpQlNWxljXmeWxEinA=="
+    },
+    {
+      "name": "codeSelection",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "C58vgcJo9PvC8puHYTU+Eg=="
+    },
+    {
+      "name": "sameLineLengthInCodes",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "JB7o7tPMwpTbcSyKol06dg=="
+    },
+    {
+      "name": "initHintBox",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "Yu1lfLfilVwF3+pZdHy8KQ=="
+    },
+    {
+      "name": "initCodeLineRef",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "AZe8/HJ9eWr2X/RAEr32Jw=="
+    },
+    {
+      "name": "initSmartCopy",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "3YyyeHNyeDp8dcnImulzPQ=="
+    },
+    {
+      "name": "copyHeadings",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "hk7ptvVwy/kwPbK5x3dVtA=="
+    },
+    {
+      "name": "contentNavHighlight",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "7dzgS81rNGCQPjlLw51f5Q=="
+    },
+    {
+      "name": "loadDeferredIFrames",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "BzYL/keFxIPsH9ftkam7gw=="
+    },
+    {
+      "name": "smoothLoading",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "NH01MwXeh45dp5GACedF2A=="
+    },
+    {
+      "name": "tocHighlight",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "aBE8yX8SyUBQ8k7jl77Y+A=="
+    },
+    {
+      "name": "postNavSearch",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "cCdL1ou7XAQXUJS6gAUorQ=="
+    }
+  ],
+  "components": [
+    {
+      "name": "ToCToggle",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "DFOYl2EAu6GA2jvmxCDOgQ=="
+    },
+    {
+      "name": "DarkModeSwitch",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "Byy9YcgRoQusL2VMJHWhEg=="
+    },
+    {
+      "name": "ConfigTransport",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "FaivD90yCDfUJ3QTQvVzJw=="
+    },
+    {
+      "name": "ArticleCard",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js",
+      "hash": "fmI9v3WM76ZiOKs1sHNTuA=="
+    },
+    {
+      "name": "Author",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js",
+      "hash": "stUwlItVJglEOSeIke89Sw=="
+    },
+    {
+      "name": "ToCPrevNext",
+      "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "AVwsB44vxh+d3QQYdUSaWg=="
+    }
+  ],
+  "renderer": {
+    "name": "getRenderer",
+    "filename": "/home/runner/work/hauke/hauke/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "X4+Jft0SzeOK7JnKOU+Otg=="
+  }
+}
